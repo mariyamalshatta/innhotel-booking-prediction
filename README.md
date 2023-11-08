@@ -1,5 +1,5 @@
 # innhotel-booking-prediction
-predit booking cancelation with ensemble techniques
+predit booking cancelation with logistics vs decision tree
 
 **Context**
 
